@@ -5,6 +5,10 @@
 ## Introduction
 Recently, changes were made to the settings of Microsoft Defender for Cloud within the subscription resource settings. These modifications primarily affected the environmental settings, particularly in the continuous export sections. These settings dictate how various data types are exported and transmitted to the Log Analytics Workspace. However, the alterations were implemented in a manner unfamiliar to users, including myself.
 
+## Afftected Area
+
+![image](https://github.com/AngelPerales10/Azure-Test-Environment-Assessing-Updates/assets/108242721/13e7d820-1f5a-441e-a5a6-5ad051787d48)
+
 ## Testing Environment Establishment
 
 To address this issue, a testing environment was established to select and evaluate settings and configurations. The aim was to ensure that resources could still effectively transmit their security events and logs to the Log Analytics Workspace following the update. The testing environment consisted of the following components:
